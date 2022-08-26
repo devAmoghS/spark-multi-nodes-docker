@@ -1,0 +1,1 @@
+apk --no-cache --update-cache add gcc gfortran python python3-dev py-pip build-base wget freetype-dev libpng-dev openblas-dev
